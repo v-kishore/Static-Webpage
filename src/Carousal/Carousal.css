@@ -1,0 +1,25 @@
+p {
+    color:gray;
+    font-style: Italic;
+    padding-top: 20px;
+}
+
+.Footermid {
+    text-align: center;
+}
+
+svg {
+    padding-right: 9px;
+}
+
+.footerend label {
+    color:gray;
+    font-style: Italic;
+    padding-top: 60px;
+    padding-bottom:50px;
+}
+
+
+.footerend1 {
+    padding-left: 20px;
+}

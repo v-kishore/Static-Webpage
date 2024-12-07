@@ -1,0 +1,33 @@
+.Nav {
+    background-color: #67B5E2;
+}
+
+.Navbar {
+    font-style: Italic;
+    font-size: 17px;    
+}
+
+
+.content {
+    background-color: rgb(243, 247, 242);
+}
+
+.label {
+    color: gray;
+    margin-top: 60px;
+    text-shadow: 1px 1px;
+    font-style: Bold;
+}
+
+.label1 {
+    color: Black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-style: Italic;
+    text-align: Justifiy;
+}
+
+#logo {
+    max-width: 500px;
+    margin: auto;
+}
